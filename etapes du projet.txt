@@ -1,0 +1,5 @@
+1. definition du besoin :
+a. créer un interface automatisant la gestion des affectations du personnel aux postes d'activités dans UGC.
+. inclure les affectations des personnelles devant être présent lors des entrées et sorties de salles.
+.. prendre en compte les "pauses".
+... faire en sorte qu'il y ai un roulement pour que chaque employé ne se retrouve pas deux fois au meme "poste".
